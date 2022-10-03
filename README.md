@@ -8,7 +8,7 @@
 #### *INSTALAÇÃO*  
  - `pkg install python`
  - `apt install git`
- - `git clone https://github.com/koppy333-333-333/gerador-cc`
+ - `git clone https://github.com/koppyy/gerar-cc`
  - `cd gerador-cc`
  - `python cardercc.py`  
 
